@@ -12,9 +12,9 @@
 
 - 📝 I regularly write articles on [https://studygroupafrica.wordpress.com/](https://studygroupafrica.wordpress.com/)
 
-- 💬 Ask me about **Study Group**
+- 💬 Ask me about **Study Group** [https://github.com/studygroupafrica/studymaterial]((https://github.com/studygroupafrica/studymaterial))
 
-- 📫 WhatsApp **0639848461**
+- 📫 WhatsApp **0639848461** [https://wa.me/27639848461]
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rngraham/](https://www.linkedin.com/in/rngraham/)
 
