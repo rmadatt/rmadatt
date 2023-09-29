@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpapercave.com/wp/veCW6hk.jpg)
+![MasterHead](https://wallpapercave.com/wp/veCW6hk.jpg)
 <h1 align="center">Hi 👋, I'm Rugshana</h1>
 <h3 align="center">Data Scientist and Linux fan</h3>
 
