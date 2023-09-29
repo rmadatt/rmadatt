@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://studygroupafrica.wordpress.com/](https://studygroupafrica.wordpress.com/)
 
-- 💬 Ask me about **Study Group** [https://github.com/studygroupafrica/studymaterial]((https://github.com/studygroupafrica/studymaterial))
+- 💬 Ask me about **Study Group** [https://https://github.com/studygroupafrica](https://github.com/studygroupafrica/studymaterial)
 
 - 📫 WhatsApp **0639848461** [https://wa.me/27639848461]
 
