@@ -14,7 +14,7 @@
 
 - 💬 Ask me about [https://https://github.com/studygroupafrica](https://github.com/studygroupafrica/)
 
-- 📫 WhatsApp **0781018044** [https://wa.me/2781018044]
+- 📫 WhatsApp **0781018044** [https://wa.me/27781018044]
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rmadatt/](https://www.linkedin.com/in/rmadatt/)
 
