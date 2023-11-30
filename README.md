@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmadatt&label=Profile%20views&color=0e75b6&style=flat" alt="rmadatt" /> </p>
 
-- 🔭 I’m currently working on [KAIARU](https://github.com/rmadatt/kaiaru_data_science)
+- 🔭 I’m currently working on [KAIARU](https://github.com/rmadatt/acceler8nsci)
 
 - 🌱 I’m currently learning **Python, R, Bash Scripting**
 
@@ -14,9 +14,9 @@
 
 - 💬 Ask me about [https://https://github.com/studygroupafrica](https://github.com/studygroupafrica/)
 
-- 📫 WhatsApp **0639848461** [https://wa.me/27639848461]
+- 📫 WhatsApp **0781018044** [https://wa.me/2781018044]
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rngraham/](https://www.linkedin.com/in/rngraham/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/rmadatt/](https://www.linkedin.com/in/rmadatt/)
 
 - ⚡ Fun fact **I live on the East coast of RSA**
 
