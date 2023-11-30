@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmadatt&label=Profile%20views&color=0e75b6&style=flat" alt="rmadatt" /> </p>
 
-- 🔭 I’m currently working on [KAIARU](https://github.com/rmadatt/acceler8nsci)
+- 🔭 I’m currently working on [ACCELERATION SCIENCE](https://github.com/rmadatt/acceler8nsci)
 
 - 🌱 I’m currently learning **Python, R, Bash Scripting**
 
