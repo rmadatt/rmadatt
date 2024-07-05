@@ -11,8 +11,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/rmadatt](https://github.com/rmadatt)
 
 - 📝 I regularly write articles on [https://studygroupafrica.wordpress.com/](https://studygroupafrica.wordpress.com/)
-
-- 💬 Ask me about [https://https://github.com/studygroupafrica](https://github.com/studygroupafrica/)
+and
+[https://optimiz8nsci.wordpress.com/](https://optimiz8nsci.wordpress.com/)
+- 💬 Text me if you are in education or small business
 
 - 📫 WhatsApp **0781018044** [https://wa.me/27781018044]
 
