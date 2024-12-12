@@ -1,4 +1,4 @@
-![MasterHead](https://www.canva.com/design/DAGY4EoNT-4/PC58gDfDluqNO36SdjG9hA/edit?utm_content=DAGY4EoNT-4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![MasterHead](https://drive.google.com/file/d/1SFcH6BHER2Rls3vXpahPnuDOAl4Nzy3-/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Rugshana</h1>
 <h3 align="center">Data Scientist and Linux fan</h3>
 
