@@ -6,20 +6,20 @@
 
 - 🔭 I’m currently working on [ACCELERATION SCIENCE](https://github.com/rmadatt/acceler8nsci)
 
-- 🌱 I’m currently learning **Python, R, Bash Scripting**
+- 🌱 I’m currently learning **Python, R, Bash Scripting, AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rmadatt](https://github.com/rmadatt)
 
-- 📝 I regularly write articles on [https://studygroupafrica.wordpress.com/](https://studygroupafrica.wordpress.com/)
+- 📝 I regularly write articles on [STUDY GROUP AFRICA](https://studygroupafrica.wordpress.com/)
 and
-[https://optimiz8nsci.wordpress.com/](https://optimiz8nsci.wordpress.com/)
+  [AI DEEP DIVE JOURNAL](https://deepdiveaijournal.wordpress.com/)
 - 💬 Text me if you are in education or small business
 
 - 📫 WhatsApp **0781018044** [https://wa.me/27781018044]
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rmadatt/](https://www.linkedin.com/in/rmadatt/)
+- 📄 Know about my experiences [Rugshana Madatt on LinkedIn](https://www.linkedin.com/in/shana786/)
 
-- ⚡ Fun fact **I live on the East coast of RSA**
+- ⚡ Fun fact **I live on the East coast of RSA in Nelson Mandela Bay**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
