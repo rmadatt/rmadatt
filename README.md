@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/1SFcH6BHER2Rls3vXpahPnuDOAl4Nzy3-/view?usp=sharing)
+![MasterHead](https://drive.google.com/file/d/1SFcH6BHER2Rls3vXpahPnuDOAl4Nzy3-/view?usp=sharing.jpg) 
 <h1 align="center">Hi 👋, I'm Rugshana</h1>
 <h3 align="center">Data Scientist and Linux fan</h3>
 
