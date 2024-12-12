@@ -23,8 +23,8 @@ and
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lionessregnant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lionessregnant" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rmadatt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rngraham/" height="30" width="40" /></a>
+<a href="https://twitter.com/bluedragonswirl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bluedragonswirl" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shana786/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shana786/" height="30" width="40" /></a>
 <a href="https://instagram.com/acceler8nsci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="acceler8nsci" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
