@@ -1,5 +1,5 @@
-![MasterHead](https://drive.google.com/file/d/1SFcH6BHER2Rls3vXpahPnuDOAl4Nzy3-/view?usp=sharing.jpg) 
-<h1 align="center">Hi 👋, I'm Rugshana</h1>
+![MasterHead](https://drive.google.com/file/d/1SFcH6BHER2Rls3vXpahPnuDOAl4Nzy3-/view?usp=sharing) 
+<h1 align="center">Hi, I'm Rugshana</h1>
 <h3 align="center">Data Scientist and Linux fan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmadatt&label=Profile%20views&color=0e75b6&style=flat" alt="rmadatt" /> </p>
