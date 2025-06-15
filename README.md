@@ -1,14 +1,14 @@
 ![MasterHead](https://wallpapercave.com/uwp/uwp4583233.jpeg)
 <h1 align="center">Hi, I'm Rugshana</h1>
-<h3 align="center">Data Scientist and Linux fan</h3>
+<h3 align="center">Statistical Programmer and Linux fan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmadatt&label=Profile%20views&color=0e75b6&style=flat" alt="rmadatt" /> </p>
 
-- 🔭 I’m currently working on [ACCELERATION SCIENCE](https://github.com/rmadatt/acceler8nsci)
+- 🔭 I’m currently working on [AI TEST LAB](https://aitestlab.co.za) and my old projects [RED POMELO](https://redpomelo.org.za)
 
-- 🌱 I’m currently learning **Python, R, Bash Scripting, AI/ML**
+- 🌱 I’m currently learning **C++, C#, Python, R, Bash Scripting, AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rmadatt](https://github.com/rmadatt)
+- 👨‍💻 Few of my projects are available at [https://github.com/rmadatt](https://github.com/rmadatt)
 
 - 📝 I regularly write articles on [STUDY GROUP AFRICA](https://studygroupafrica.wordpress.com/)
 and
