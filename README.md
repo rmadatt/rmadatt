@@ -27,7 +27,7 @@ and
   </a>
 
   <!-- X (formerly Twitter) -->
-  <a href="https://twitter.com/redpomelo-orgza" target="_blank" rel="noreferrer">
+  <a href="https://twitter.com/redpomelo_orgza" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/6422/6422214.png" alt="X" width="40" height="40"/>
   </a>
 </p>
