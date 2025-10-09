@@ -22,12 +22,12 @@ and
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- Instagram -->
-  <a href="https://www.instagram.com/pygetter/" target="_blank" rel="noreferrer">
+  <a href="https://www.instagram.com/redpomelotech/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/>
   </a>
 
   <!-- X (formerly Twitter) -->
-  <a href="https://twitter.com/redpomelo_orgza" target="_blank" rel="noreferrer">
+  <a href="https://twitter.com/strawberryANOVA" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/6422/6422214.png" alt="X" width="40" height="40"/>
   </a>
 </p>
