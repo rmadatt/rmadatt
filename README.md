@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmadatt&label=Profile%20views&color=0e75b6&style=flat" alt="rmadatt" /> </p>
 
-- 🔭 I’m currently working on [AI TEST LAB](https://aitestlab.co.za) and my old projects [RED POMELO](https://redpomelo.org.za)
+- 🔭 I’m currently working on [AI TEST LAB](https://redpomelo.org.za/ai-test-lab), [STRAWBERRY TECHいちご 技術
+](https://redpomelo.org.za/strawberry-technology-rsa)
+ and my old projects [RED POMELO](https://redpomelo.org.za)
 
 - 🌱 I’m currently learning **C++, C#, Python, R, Bash Scripting, AI/ML**
 
