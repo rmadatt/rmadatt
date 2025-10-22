@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmadatt&label=Profile%20views&color=0e75b6&style=flat" alt="rmadatt" /> </p>
 
-- 🔭 I’m currently working on [AI TEST LAB](https://redpomelo.org.za/ai-test-lab), [STRAWBERRY TECHいちご 技術
+- 🔭 I’m currently working on [STRAWBERRY TECHNOLOGY RSA (PTY) LTDいちご 技術
 ](https://redpomelo.org.za/strawberry-technology-rsa)
- and my old projects [RED POMELO](https://redpomelo.org.za)
+ and my old projects [RED POMELO](https://redpomelotechnology.wordpress.com)
 
 - 🌱 I’m currently learning **C++, C#, Python, R, Bash Scripting, AI/ML**
 
@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [STUDY GROUP AFRICA](https://studygroupafrica.wordpress.com/)
 and
-  [AI DEEP DIVE JOURNAL](https://deepdiveaijournal.wordpress.com/)
+  [AI TEST LAB AFRICA](https://aitestlabafrica.wordpress.com/)
 - 💬 Text me if you are in education or small business
 
 - 📫 WhatsApp **0781018044** [https://wa.me/27781018044]
